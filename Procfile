@@ -1,0 +1,1 @@
+web: gunicorn pobrix.wsgi --log-file -

@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block titulo %}
+
+homeFilmes Pobrix
+
+{% endblock %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block content %}
+
+<main class='bg-primary_black min-h-screen w-full'>
+    <div class="flex py-12 justify-center">
+     <iframe width="100%" height="575px" src="{{object.episodios.first.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+    </div>
+</main>
+
+
+
+{% endblock %}
