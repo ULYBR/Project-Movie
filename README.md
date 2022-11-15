@@ -38,15 +38,15 @@ git clone https://github.com/ULYBR/Project-Movie.git
 
 # criação do ambiente
   
-  python venv venv
+  python -m venv venv
 
 # inicialização do venv
   
   venv/scripts/venv
   
-# instalação do requeriments
+# instalação do requirements
 
-  pip install -r requeriments.txt
+  pip install -r requirements.txt
 
 
 # inicialização do App
