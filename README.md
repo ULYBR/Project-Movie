@@ -67,7 +67,7 @@ git clone https://github.com/ULYBR/Project-Movie.git
  
  ```
  
- # Logo após todos os passos é só adicionar os filmes que App está pronto.
+ ## Logo após todos os passos é só adicionar os filmes que App está pronto.
 
 
 
