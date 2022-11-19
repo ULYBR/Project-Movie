@@ -60,7 +60,6 @@ git clone https://github.com/ULYBR/Project-Movie.git
 ```bash
 # Lembrando que terá que criar um superadmin do Django.
 
-  python manage.py runserver
   
   python manage.py create superuser
   
