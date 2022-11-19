@@ -57,6 +57,18 @@ git clone https://github.com/ULYBR/Project-Movie.git
 
 #APP irá abrir em um link localhost.
 
+```bash
+# Lembrando que terá que criar um superadmin do Django.
+
+  python manage.py runserver
+  
+  python manage.py create superuser
+  
+ 
+ ```
+ 
+ # Logo após todos os passos é só adicionar os filmes que App está pronto.
+
 
 
 
